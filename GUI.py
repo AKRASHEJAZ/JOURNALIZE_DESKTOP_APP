@@ -1,7 +1,7 @@
 import functionality as fxn
 import sys
 from pathlib import Path
-
+#MADE USING KTINKER DESIGNER
 # from tkinter import *
 # Explicit imports to satisfy Flake8
 from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
